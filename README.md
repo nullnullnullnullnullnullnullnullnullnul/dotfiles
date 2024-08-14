@@ -1,4 +1,4 @@
-# ThinkPad Suckless Configuration Files
+# Dotfiles
 
 Welcome to my [Suckless](https://suckless.org/) configuration files. This repository contains custom configurations for Suckless software like dwm, st, and dmenu, tailored to enhance productivity and efficiency for me. Feel free to explore, use, and modify these configurations to suit your needs.
 
