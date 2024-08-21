@@ -2,7 +2,7 @@ picom &
 wmname LG3D &
 slstatus &
 NetworkManager &
-nextcloud &
+syncthingtray &
 nm-applet &
 xautolock -time 10 -locker slock &
 xidlehook \
