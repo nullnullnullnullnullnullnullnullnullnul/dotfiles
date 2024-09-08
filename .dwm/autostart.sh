@@ -3,6 +3,7 @@ wmname LG3D &
 slstatus &
 NetworkManager &
 syncthingtray &
+/usr/bin/lxpolkit &
 nm-applet &
 xautolock -time 10 -locker slock &
 xidlehook \
