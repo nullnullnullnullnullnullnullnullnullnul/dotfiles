@@ -32,7 +32,7 @@ These are the required dependencies for all the tools to work.
 
 ### Arch Linux
 ```
-pacman -S gcc git make patch polkit lxsession base-devel freetype2 libx11 libxft libxinerama fontconfig coreutils glibc libxext ncurses terminus-font slock xautolock picom stow feh wmname NetworkManager network-manager-applet syncthing
+pacman -S gcc git make patch polkit lxsession base-devel freetype2 libx11 libxft libxinerama fontconfig coreutils glibc libxext ncurses terminus-font slock xautolock picom stow feh wmname networkmanager network-manager-applet syncthing
 ```
 ## Patches
 
